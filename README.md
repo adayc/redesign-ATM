@@ -39,4 +39,28 @@ Rediseño de cajeros automáticos del BCP .
 https://docs.google.com/spreadsheets/d/1K6M7NUU2jhiizs00K91JPyaiC8JjBu-k5NPXXZ9Xu3g/edit?usp=sharing
 
 #### **Observación Contextual**
-- Se solicitó a 4 personas que realicen diversas operaciones en diversos cajeros para percibir la forma en que los emplean y que interfaces les generan molestias e incomodidades.
+- Se solicitó a 3 personas que realicen diversas operaciones en diversos cajeros para percibir la forma en que los emplean y que interfaces les generan molestias e incomodidades.
+1. Retiro de dinero -  BBVA
+![bbva 2x](https://user-images.githubusercontent.com/32311089/41495543-3a98f588-70ef-11e8-9370-d1b183d625ec.png)
+2. Consulta de saldo y movimientos – Interbank 
+![ibk retiro](https://user-images.githubusercontent.com/32311089/41495756-3130b710-70f4-11e8-993e-bde4470da11d.png)
+3. Depósito de efectivo -  BCP 
+![bcp deposito](https://user-images.githubusercontent.com/32311089/41496324-b0bd9bca-7102-11e8-878d-879504f6f030.png)
+
+#### **Benchmark**
+![benchmark](https://user-images.githubusercontent.com/32311089/41496722-6ce98364-710c-11e8-8f68-0c90892ebc81.png)
+### **Resultados de la investigación**
+
+- Las personas acuden en promedio 2 veces a la semana a los cajeros de sus entidades bancarias.
+- La operación que más se realiza son los retiros, seguido de los depósitos en el caso que no pertenezcan a la entidad mediante los cajeros multifuncionales de 
+- La mayoría de personas no han retirado monedas de un cajero debido a que su entidad no posee este tipo de cajero, sin embargo dsearían hacerlo para poder retirar montos pequeños.
+
+### **SÍNTESIS Y DEFINICIÓN**
+
+#### **Comentarios de los usuarios**  
+
+1.“Solo uso el cajero para realizar retiros, para las demás operaciones empleo el app de mi banco”  
+2.” Los bancos deberían permitir el cobro de cheques”  
+3.” Deben tener una forma de reportar que se encuentren en mal estado o que no poseen dinero suficiente”  
+4.” Tener diversidad de billetes para poder retirar cualquier monto que deseemos e incluir los billetes de 10 soles”  
+5.” Implementar los cajeros monederos en mayores puntos del país”

@@ -18,10 +18,10 @@ Rediseño de cajeros automáticos del BCP .
 ### **Análisis de datos**
 - Se realizó el análisis de estudios de investigación de mercados realizados por IPSOS Loyalty: 
 **Usuario Bancarizado**  
-● El peruano bancarizado es un adulto joven varon de 38 años en promedio, padre de familia, aunque la mayoría son solteros. Se desempeña como trabajador dependiente 
-● Respecto a los bancos principales son : BCP (57%), Interbank (20%) y BBVA (14%).
-● Los principales canales que se emplean son: Cajero (83%), Ventanilla (80%) los  Agentes (48%).
-● Actualmente los canales de atención poseen cierto nivel de confianza de sus usuarios siendo el cajero automatico el que posee mayor porcentaje con 83%
+- El peruano bancarizado es un adulto joven varon de 38 años en promedio, padre de familia, aunque la mayoría son solteros. Se desempeña como trabajador dependiente 
+- Respecto a los bancos principales son : BCP (57%), Interbank (20%) y BBVA (14%).
+- Los principales canales que se emplean son: Cajero (83%), Ventanilla (80%) los  Agentes (48%).
+- Actualmente los canales de atención poseen cierto nivel de confianza de sus usuarios siendo el cajero automatico el que posee mayor porcentaje con 83%
 
 
 

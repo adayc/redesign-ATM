@@ -67,3 +67,6 @@ https://docs.google.com/spreadsheets/d/1K6M7NUU2jhiizs00K91JPyaiC8JjBu-k5NPXXZ9X
 3.” Deben tener una forma de reportar que se encuentren en mal estado o que no poseen dinero suficiente”  
 4.” Tener diversidad de billetes para poder retirar cualquier monto que deseemos e incluir los billetes de 10 soles”  
 5.” Implementar los cajeros monederos en mayores puntos del país”
+
+### **User persona**
+![amilcar coyla](https://user-images.githubusercontent.com/32311089/41497550-cac5147a-711c-11e8-945a-47d006ec5464.png)

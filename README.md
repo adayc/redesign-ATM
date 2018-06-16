@@ -58,10 +58,7 @@ Un sistema de recompensas mediante la acumulación de puntos  por visitas y/o co
 **Las entrevistadas fueron:**
 - Los audios de las entrevistas se encuentran en el siguiente link: https://drive.google.com/drive/folders/1lSdh-Xl8GK0Q8cfByATqN7ekwkW1_sTq?usp=sharing
 
-**Brainstorming de aplicativo/website/servicio**  
 
-Adicional a eso se les presento a las entrevistadas la propuesta de un Journey  la cual permita fidelizarlos.
-![20180411_182811](https://user-images.githubusercontent.com/32311089/39416643-2dc4ecd6-4c14-11e8-8c79-f77b2d7569cd.jpg)
 
 
 #### **Benchmark**

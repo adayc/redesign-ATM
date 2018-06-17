@@ -70,3 +70,20 @@ https://docs.google.com/spreadsheets/d/1K6M7NUU2jhiizs00K91JPyaiC8JjBu-k5NPXXZ9X
 
 ### **User persona**
 ![amilcar coyla](https://user-images.githubusercontent.com/32311089/41497550-cac5147a-711c-11e8-945a-47d006ec5464.png)
+### **IDEACIÓN**
+### **Feature List**
+
+-
+-
+-
+-
+-
+-
+-
+
+
+### **PROTOTYPING**  
+#### Arquitectura de información
+![user flow atm](https://user-images.githubusercontent.com/32311089/41503965-c97946d8-71a6-11e8-876d-5123c0bdf14b.png)
+#### Prototipo interactivo 
+

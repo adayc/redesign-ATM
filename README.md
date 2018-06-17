@@ -73,17 +73,57 @@ https://docs.google.com/spreadsheets/d/1K6M7NUU2jhiizs00K91JPyaiC8JjBu-k5NPXXZ9X
 ### **IDEACIÓN**
 ### **Feature List**
 
--
--
--
--
--
--
--
+- Ingreso fácil con clave secreta de la tarjeta
+- Menú principal con las acciones más frecuentes
+- Retiro de billetes y monedas de todas las denominaciones
+- Depósito de billetes.
+- Transferencias a sus cuentas y de terceros.
 
 
 ### **PROTOTYPING**  
 #### Arquitectura de información
 ![user flow atm](https://user-images.githubusercontent.com/32311089/41503965-c97946d8-71a6-11e8-876d-5123c0bdf14b.png)
 #### Prototipo interactivo 
+
+https://marvelapp.com/4bcjihf/screen/44407628
+### **TESTING**
+
+#### _**Cajero automático**_
+
+a. Script del testing
+- En este módulo usted va a realizar las siguientes actividades:
+- _Retiro de dinero_
+- _Depósito de dinero a una cuenta_
+
+b. Cualidades (¿Cuáles son las cosas positivas del proyecto?)
+- _ _
+- _ _
+
+c. Debilidades (¿Cuáles son las cosas que molestan o hacen ruido?)
+- _ _ 
+- _ _
+- _ _
+- _ _
+
+d. Mejoras (¿Qué cosas mejorarías o potenciarían?)
+- _ _
+
+
+
+
+
+### **CONCLUSIONES**
+
+
+#### **Tecnologías a emplear**  
+
+**Cajero automático interactivo **  
+- Las características de un cajero son las siguientes:
+-  Gabinete de acero.
+- Monitor sensible al tacto
+- Impresora térmica de comprobantes
+- Validador de monedas y billetes
+-Dispensadores de monedas y billetes
+-Lector de tarjetas bancarias.
+-Software monitoreo.
 

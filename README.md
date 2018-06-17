@@ -123,7 +123,7 @@ d. Mejoras (¿Qué cosas mejorarías o potenciarían?)
 - Monitor sensible al tacto
 - Impresora térmica de comprobantes
 - Validador de monedas y billetes
--Dispensadores de monedas y billetes
--Lector de tarjetas bancarias.
--Software monitoreo.
+- Dispensadores de monedas y billetes
+- Lector de tarjetas bancarias.
+- Software monitoreo.
 
